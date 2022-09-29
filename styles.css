@@ -1,0 +1,23 @@
+body{
+  background-color: #D9F8C4;
+  font: 17px "Times New Roman", serif;
+  color: #614124;
+}
+hr{
+  background-color: transparent;
+  border-color: #614124;
+  border-style: dotted;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  border-width: 8px;
+  width: 5%;
+}
+h1{
+  color: #42855B;
+  font: bold 40px "Garamond", serif;
+}
+h3{
+  color: #42855B;
+  font: bold 25px "Garamond", serif;
+}
